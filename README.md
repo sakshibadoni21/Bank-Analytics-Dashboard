@@ -20,4 +20,35 @@ The dashboard aims to offer insights into the bank's loan distribution, customer
 
 ![Screenshot 2024-01-17 195031](https://github.com/sakshibadoni21/Bank-Analytics-Dashboard/assets/152711814/8ea32a75-a01c-4a46-8364-924f59eb26d0)
 
+# Key Insight
+
+## Customer and Loan Overview:
+39,917 customers with loan interest rates ranging from 5.42% to 24.59%. 34,516 inquiries in the last 6 months.
+
+## Loan Grade Distribution:
+Loans categorized A to G; Grade A signifies the majority and lower risk.
+
+## Home Ownership and Loan Status:
+Majority of customers are renters or have mortgages. "Customer Wise Home Ownership & Loan Status" chart shows renters lead with 18,899 loans.
+
+## Loan Verification Status:
+Donut chart displays verification status, with a significant portion (202M out of 324M) verified.
+
+## Loan Performance Over Time:
+"Year Wise Loan Amount" chart indicates steady growth from 2007 to 2011.
+
+## Loan Amount vs. Annual Income:
+Bar graph highlights total loan amount significantly exceeding customers' annual income, suggesting potential high debt relative to income.
+
+## Geographical Distribution:
+"Top 5 State By Customer's" map reveals California (CA) and Texas (TX) having the highest customer numbers.
+
+## Loan Purpose:
+"Top 5 Purpose By Loan Amount" indicates loans primarily for debt consolidation, followed by credit card payments, home improvement, major purchase, and small business.
+
+
+
+
+
+
 
