@@ -46,6 +46,10 @@ Bar graph highlights total loan amount significantly exceeding customers' annual
 ## Loan Purpose:
 "Top 5 Purpose By Loan Amount" indicates loans primarily for debt consolidation, followed by credit card payments, home improvement, major purchase, and small business.
 
+## Conclusion
+
+The Bank Analytics Dashboard offers a detailed snapshot of the loan portfolio, emphasizing growth in low-risk loans and highlighting key markets in California and Texas. While the dashboard successfully incorporates verification status and customer demographics, it falls short in addressing critical risk factors such as default rates and detailed loan purpose analysis. To strengthen risk management, it is essential to refine the dashboard by integrating these missing elements and conducting a more in-depth examination of customer data and loan performance. Overall, the dashboard serves as a valuable tool with room for improvement in risk assessment and strategic planning.
+
 
 
 
