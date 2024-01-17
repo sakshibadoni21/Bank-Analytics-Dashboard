@@ -16,3 +16,8 @@ The dashboard aims to offer insights into the bank's loan distribution, customer
 
 6.Resulted in the Bank Analytics Dashboard, a powerful tool for visualizing and interpreting large loan datasets, facilitating data-driven decision-making.
 
+## Snapshort
+
+![Screenshot 2024-01-17 195031](https://github.com/sakshibadoni21/Bank-Analytics-Dashboard/assets/152711814/8ea32a75-a01c-4a46-8364-924f59eb26d0)
+
+
