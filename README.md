@@ -22,10 +22,8 @@ The dashboard aims to offer insights into the bank's loan distribution, customer
 
 # Key Insight
 
-Customer and Loan Overview:
-
-## The bank has a total of 39,917 customers.
-The maximum interest rate on loans is 24.59%, while the minimum is 5.42%.There have been 34,516 inquiries in the last 6 months.
+## Customer and Loan Overview:
+The bank has a total of 39,917 customers. The maximum interest rate on loans is 24.59%, while the minimum is 5.42%.There have been 34,516 inquiries in the last 6 months.
 
 ## Loan Grade Distribution:
 Loans are categorized into grades A through G, with Grade A loans having the highest amount, indicating that most of the loans issued are considered low-risk.
