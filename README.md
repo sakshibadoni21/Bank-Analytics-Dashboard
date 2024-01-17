@@ -1,0 +1,3 @@
+## Problem statement
+
+The dashboard aims to offer insights into the bank's loan distribution, customer demographics, and loan performance over time. It provides an overview for bank management to assess the current loan portfolio and customer base.dashboard aims to evaluate the bank's loan portfolio but lacks critical risk indicators. It needs to incorporate default rates by loan grade, assess the impact of high loan amounts relative to customer income, analyze loan purpose risks, and consider geographical factors influencing loan performance. Furthermore, a more detailed examination of verification status and customer demographics is crucial for effective risk management and strategic planning.
